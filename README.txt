@@ -1,14 +1,27 @@
-# Bootstrap 4 Skeleton WordPress Theme
+=== Bootstrap 4 Skeleton ===
+Contributors: Julian Flynn
+Requires at least: WordPress 4.7
+Tested up to: WordPress 4.7
+Version: 1.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: bootstrap, bootstrap-4, font-awesome, one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+
+== Description ==
+
 WordPress starter theme built with Bootstrap 4, meant for developers.
 
-## Installation
+== Installation ==
+
 1. In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
 2. Type in Bootstrap 4 Skeleton in the search form and press the 'Enter' key on your keyboard.
 3. Click on the 'Activate' button to use your new theme right away.
 4. Go to https://codex.wordpress.org/Bootstrap_4 for a guide on how to customize this theme.
 5. Navigate to Appearance > Customize in your admin panel and customize to taste.
 
-## Copyright
+== Copyright ==
+
+Bootstrap 4 Skeleton WordPress Theme, Copyright 2016 WordPress.org
 Bootstrap 4 Skeleton is distributed under the terms of the GNU GPL
 
 This program is free software: you can redistribute it and/or modify

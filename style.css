@@ -1,0 +1,70 @@
+/*
+Theme Name: Bootstrap 4
+Theme URI: https://wordpress.org/themes/bs4/
+Author: the WordPress team
+Author URI: https://wordpress.org/
+Description: WordPress starter theme built with Bootstrap 4, meant for developers.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: bs4
+Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+.screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute !important;
+    width: 1px;
+    word-wrap: normal !important;
+}
+
+.entry-content img {
+    max-width: 100%
+}
+
+.hidden {
+    display: none
+}
+
+.comments-area {
+    margin-top: 2rem
+}
+
+.comments {
+    margin: 1rem 0;
+}
+
+.comments-title {
+    margin-bottom: 1rem;
+}
+
+.comment {
+    margin-bottom: 1rem;
+}
+.comment:last-child {
+    margin-bottom: 0;
+}
+
+/* BuddyPress */
+div#buddypress div#cover-image-container {
+    margin-bottom: 1rem;
+}
+div#buddypress .activity-item {
+    margin-top: 1rem;
+}
+
+div#buddypress .activity-post-form .avatar {
+    margin-right: 1rem;
+}
+
+/* WooCommerce */
+.product .onsale {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
